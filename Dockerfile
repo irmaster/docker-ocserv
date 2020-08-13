@@ -1,8 +1,8 @@
 FROM alpine:3.7
 
-MAINTAINER Tommy Lau <tommy@gen-new.com>
+MAINTAINER Iman Mousavi <evinsoft@gm.com>
 
-ENV OC_VERSION=0.12.1
+ENV OC_VERSION=1.1.0
 
 RUN buildDeps=" \
 		curl \
